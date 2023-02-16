@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monogram.Tests", "Monogram.Tests\Monogram.Tests.csproj", "{3916CF89-B4F7-43EC-A97C-6C4D7A0E0A0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monogram", "Monogram\Monogram.csproj", "{169E4F20-59C4-4E24-B3F3-56B52947AC12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3916CF89-B4F7-43EC-A97C-6C4D7A0E0A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3916CF89-B4F7-43EC-A97C-6C4D7A0E0A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3916CF89-B4F7-43EC-A97C-6C4D7A0E0A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3916CF89-B4F7-43EC-A97C-6C4D7A0E0A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{169E4F20-59C4-4E24-B3F3-56B52947AC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169E4F20-59C4-4E24-B3F3-56B52947AC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169E4F20-59C4-4E24-B3F3-56B52947AC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169E4F20-59C4-4E24-B3F3-56B52947AC12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26694157-EC37-4272-8216-D04FF704BE0A}
+	EndGlobalSection
+EndGlobal
